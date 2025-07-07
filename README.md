@@ -7,6 +7,7 @@
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f3038ff64c444fcea1721f1352262c4f.png)
 
 代码获取：[https://mbd.pub/o/bread/mbd-YZWVlJ1qZw==](https://mbd.pub/o/bread/mbd-YZWVlJ1qZw==)
+
 视频介绍：
 [video(video-lNKCLjpM-1751909124371)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=114813082542067)(image-https://i-blog.csdnimg.cn/img_convert/880df815daf1e59112d1b1c74361a341.jpeg)(title-基于深度学习的植物病虫害检测系统(含UI界面、YOLO模型、代码、数据集))]
 
